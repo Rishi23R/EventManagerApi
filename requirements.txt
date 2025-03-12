@@ -1,0 +1,4 @@
+fastapi
+SQLAlchemy
+pydantic
+pytest
